@@ -1,0 +1,29 @@
+body{
+    margin: 0 auto;
+}
+
+.Container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+}
+
+#CurrentDate{
+    align-self: flex-end;
+}
+
+#Title{
+    margin: 20px;
+}
+
+#Top, #Bottom, #Shoes{
+    text-align: center;
+    padding: 20px; 
+}
+
+#TopImg, #BottomImg, #ShoesImg{
+    width: 300px;
+}
+
+
