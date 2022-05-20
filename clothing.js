@@ -95,7 +95,7 @@ const clothing = [
     type: "bottom",
     dressCode: "casual",
     imageUrl:
-      "https://slimages.macysassets.com/is/image/MCY/products/6/optimized/21650286_fpx.tif?op_sharpen=1&wid=1230&hei=1500&fit=fit,1&$filterxlrg$&fmt=webp",
+      "https://slimages.macysassets.com/is/image/MCY/products/3/optimized/14305973_fpx.tif?op_sharpen=1&wid=1230&hei=1500&fit=fit,1&$filterxlrg$&fmt=webp",
   },
   {
     description: "Dress Blue Pants",
