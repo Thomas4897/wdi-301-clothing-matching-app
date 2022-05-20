@@ -88,6 +88,7 @@ const filterdBottoms = filteredTypeClothes.filter((e) => {
     return e;
   }
 });
+console.log(filterdBottoms);
 
 //! Filters only 'shoes'
 const filterdShoes = filteredTypeClothes.filter((e) => {
